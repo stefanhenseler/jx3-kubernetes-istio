@@ -1,0 +1,8 @@
+- namespace: jx
+  path: helmfiles/jx/helmfile.yaml
+- namespace: istio-operator
+  path: helmfiles/istio-operator/helmfile.yaml
+- namespace: istio-system
+  path: helmfiles/istio-system/helmfile.yaml
+- namespace: tekton-pipelines
+  path: helmfiles/tekton-pipelines/helmfile.yaml
